@@ -1,0 +1,16 @@
+C:\Viswa\Tech\NN\jsonparser\jsonparser\bin\Debug\jsonparser.exe.config
+C:\Viswa\Tech\NN\jsonparser\jsonparser\bin\Debug\jsonparser.exe
+C:\Viswa\Tech\NN\jsonparser\jsonparser\bin\Debug\jsonparser.pdb
+C:\Viswa\Tech\NN\jsonparser\jsonparser\bin\Debug\Newtonsoft.Json.dll
+C:\Viswa\Tech\NN\jsonparser\jsonparser\bin\Debug\Newtonsoft.Json.xml
+C:\Viswa\Tech\NN\jsonparser\jsonparser\obj\Debug\jsonparser.csprojResolveAssemblyReference.cache
+C:\Viswa\Tech\NN\jsonparser\jsonparser\obj\Debug\MainWindow.g.cs
+C:\Viswa\Tech\NN\jsonparser\jsonparser\obj\Debug\App.g.cs
+C:\Viswa\Tech\NN\jsonparser\jsonparser\obj\Debug\jsonparser_MarkupCompile.cache
+C:\Viswa\Tech\NN\jsonparser\jsonparser\obj\Debug\jsonparser_MarkupCompile.lref
+C:\Viswa\Tech\NN\jsonparser\jsonparser\obj\Debug\MainWindow.baml
+C:\Viswa\Tech\NN\jsonparser\jsonparser\obj\Debug\jsonparser.g.resources
+C:\Viswa\Tech\NN\jsonparser\jsonparser\obj\Debug\jsonparser.Properties.Resources.resources
+C:\Viswa\Tech\NN\jsonparser\jsonparser\obj\Debug\jsonparser.csproj.GenerateResource.Cache
+C:\Viswa\Tech\NN\jsonparser\jsonparser\obj\Debug\jsonparser.exe
+C:\Viswa\Tech\NN\jsonparser\jsonparser\obj\Debug\jsonparser.pdb
